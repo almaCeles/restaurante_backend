@@ -1,0 +1,74 @@
+[
+    {
+        "model": "pedidos.mesa",
+        "pk": 1,
+        "fields": {
+            "numero": 1,
+            "capacidad": 4
+        }
+    },
+    {
+        "model": "pedidos.mesa",
+        "pk": 2,
+        "fields": {
+            "numero": 2,
+            "capacidad": 6
+        }
+    },
+    {
+        "model": "pedidos.mesa",
+        "pk": 3,
+        "fields": {
+            "numero": 3,
+            "capacidad": 2
+        }
+    },
+    {
+        "model": "pedidos.mesa",
+        "pk": 4,
+        "fields": {
+            "numero": 4,
+            "capacidad": 8
+        }
+    },
+    {
+        "model": "pedidos.mesa",
+        "pk": 5,
+        "fields": {
+            "numero": 5,
+            "capacidad": 10
+        }
+    },
+    {
+        "model": "pedidos.mesa",
+        "pk": 6,
+        "fields": {
+            "numero": 6,
+            "capacidad": 2
+        }
+    },
+    {
+        "model": "pedidos.mesa",
+        "pk": 7,
+        "fields": {
+            "numero": 7,
+            "capacidad": 2
+        }
+    },
+    {
+        "model": "pedidos.mesa",
+        "pk": 8,
+        "fields": {
+            "numero": 8,
+            "capacidad": 2
+        }
+    },
+    {
+        "model": "pedidos.mesa",
+        "pk": 9,
+        "fields": {
+            "numero": 9,
+            "capacidad": 4
+        }
+    }
+]

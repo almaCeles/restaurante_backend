@@ -1,5 +1,6 @@
 from django.urls import path
-from .views.views import CategoriaListCreateAPIView, CategoriaRetrieveUpdateDestroyAPIView, PlatilloListCreateAPIView, PlatilloRetrieveUpdateDestroyAPIView
+from .views.categotoriaView import CategoriaListCreateAPIView, CategoriaRetrieveUpdateDestroyAPIView
+from .views.platilloView import   PlatilloListCreateAPIView, PlatilloRetrieveUpdateDestroyAPIView
 
 urlpatterns = [
     path('categorias/', CategoriaListCreateAPIView.as_view(), name='categoria_list_create'),

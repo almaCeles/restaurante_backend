@@ -1,0 +1,137 @@
+[
+    {
+        "model": "inventario.ingrediente",
+        "pk": 1,
+        "fields": {
+            "nombre": "Carne de Res",
+            "cantidad": 30,
+            "platillos": [1, 11]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 2,
+        "fields": {
+            "nombre": "Aceite de Trufa",
+            "cantidad": 10,
+            "platillos": [1, 12]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 3,
+        "fields": {
+            "nombre": "Atún Fresco",
+            "cantidad": 15,
+            "platillos": [2, 15]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 4,
+        "fields": {
+            "nombre": "Burrata",
+            "cantidad": 20,
+            "platillos": [3]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 5,
+        "fields": {
+            "nombre": "Langosta",
+            "cantidad": 25,
+            "platillos": [4, 17, 20]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 6,
+        "fields": {
+            "nombre": "Foie Gras",
+            "cantidad": 18,
+            "platillos": [5, 19]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 7,
+        "fields": {
+            "nombre": "Tomates Heirloom",
+            "cantidad": 30,
+            "platillos": [3]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 8,
+        "fields": {
+            "nombre": "Espárragos",
+            "cantidad": 15,
+            "platillos": [14]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 9,
+        "fields": {
+            "nombre": "Pato",
+            "cantidad": 12,
+            "platillos": [13]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 10,
+        "fields": {
+            "nombre": "Queso Parmesano",
+            "cantidad": 20,
+            "platillos": [12]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 11,
+        "fields": {
+            "nombre": "Salmón",
+            "cantidad": 18,
+            "platillos": [16]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 12,
+        "fields": {
+            "nombre": "Costilla de Res",
+            "cantidad": 14,
+            "platillos": [18]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 13,
+        "fields": {
+            "nombre": "Setas",
+            "cantidad": 22,
+            "platillos": [11]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 14,
+        "fields": {
+            "nombre": "Tortillas",
+            "cantidad": 50,
+            "platillos": [10]
+        }
+    },
+    {
+        "model": "inventario.ingrediente",
+        "pk": 15,
+        "fields": {
+            "nombre": "Cebolla Caramelizada",
+            "cantidad": 30,
+            "platillos": [19]
+        }
+    }
+]

@@ -1,0 +1,237 @@
+[
+    {
+        "model": "menu.categoria",
+        "pk": 1,
+        "fields": {
+            "nombre": "Entradas"
+        }
+    },
+    {
+        "model": "menu.categoria",
+        "pk": 2,
+        "fields": {
+            "nombre": "Platos Principales"
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 1,
+        "fields": {
+            "nombre": "Carpaccio de Res",
+            "categoria": 1,
+            "precio": "180.00",
+            "descripcion": "Finas láminas de res con aceite de trufa y parmesano.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 2,
+        "fields": {
+            "nombre": "Tartar de Atún",
+            "categoria": 1,
+            "precio": "200.00",
+            "descripcion": "Atún fresco con aguacate y sésamo negro.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 3,
+        "fields": {
+            "nombre": "Ensalada de Burrata",
+            "categoria": 1,
+            "precio": "150.00",
+            "descripcion": "Burrata fresca con tomate heirloom y albahaca.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 4,
+        "fields": {
+            "nombre": "Ceviche de Langosta",
+            "categoria": 1,
+            "precio": "220.00",
+            "descripcion": "Langosta marinada con limón y mango.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 5,
+        "fields": {
+            "nombre": "Foie Gras con Brioche",
+            "categoria": 1,
+            "precio": "250.00",
+            "descripcion": "Foie gras sellado con mermelada de higos y brioche.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 6,
+        "fields": {
+            "nombre": "Sopa de Langosta",
+            "categoria": 1,
+            "precio": "180.00",
+            "descripcion": "Sopa cremosa con trozos de langosta y brandy.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 7,
+        "fields": {
+            "nombre": "Ostras Frescas",
+            "categoria": 1,
+            "precio": "260.00",
+            "descripcion": "Media docena de ostras con aderezo de cítricos.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 8,
+        "fields": {
+            "nombre": "Gazpacho de Sandía",
+            "categoria": 1,
+            "precio": "130.00",
+            "descripcion": "Refrescante gazpacho de sandía con pepino y menta.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 9,
+        "fields": {
+            "nombre": "Escargots a la Bourguignonne",
+            "categoria": 1,
+            "precio": "230.00",
+            "descripcion": "Caracoles horneados con mantequilla de ajo y perejil.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 10,
+        "fields": {
+            "nombre": "Tostadas de Pulpo",
+            "categoria": 1,
+            "precio": "190.00",
+            "descripcion": "Pulpo marinado con adobo sobre tostadas crujientes.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 11,
+        "fields": {
+            "nombre": "Filete Wellington",
+            "categoria": 2,
+            "precio": "450.00",
+            "descripcion": "Filete de res envuelto en hojaldre con duxelle de hongos.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 12,
+        "fields": {
+            "nombre": "Risotto de Trufa Negra",
+            "categoria": 2,
+            "precio": "350.00",
+            "descripcion": "Risotto cremoso con trufa negra rallada.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 13,
+        "fields": {
+            "nombre": "Pato a la Naranja",
+            "categoria": 2,
+            "precio": "400.00",
+            "descripcion": "Pato asado con salsa de naranja y guarnición de papas.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 14,
+        "fields": {
+            "nombre": "Lomo de Wagyu",
+            "categoria": 2,
+            "precio": "600.00",
+            "descripcion": "Lomo de wagyu a la parrilla con sal marina y espárragos.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 15,
+        "fields": {
+            "nombre": "Atún Sellado",
+            "categoria": 2,
+            "precio": "380.00",
+            "descripcion": "Atún sellado con costra de sésamo y puré de zanahoria.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 16,
+        "fields": {
+            "nombre": "Salmón Gravlax",
+            "categoria": 2,
+            "precio": "320.00",
+            "descripcion": "Salmón curado con eneldo y mostaza.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 17,
+        "fields": {
+            "nombre": "Langosta Thermidor",
+            "categoria": 2,
+            "precio": "550.00",
+            "descripcion": "Langosta gratinada con salsa de brandy y queso.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 18,
+        "fields": {
+            "nombre": "Costilla de Res",
+            "categoria": 2,
+            "precio": "500.00",
+            "descripcion": "Costilla de res cocida a fuego lento con salsa de vino tinto.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 19,
+        "fields": {
+            "nombre": "Foie Gras con Manzana",
+            "categoria": 2,
+            "precio": "480.00",
+            "descripcion": "Foie gras dorado con compota de manzana y reducción de balsámico.",
+            "disponible": true
+        }
+    },
+    {
+        "model": "menu.platillo",
+        "pk": 20,
+        "fields": {
+            "nombre": "Ravioli de Langosta",
+            "categoria": 2,
+            "precio": "420.00",
+            "descripcion": "Ravioli relleno de langosta con salsa de mantequilla y limón.",
+            "disponible": true
+        }
+    }
+
+]
